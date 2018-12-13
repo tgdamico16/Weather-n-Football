@@ -1,0 +1,5 @@
+______________
+Date: xx/xx/xxxx
+High Temp: x°
+Low Temp: x°
+Precipitation: x.xx"

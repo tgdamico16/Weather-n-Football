@@ -1,0 +1,53 @@
+________________
+10-Day Forecast
+________________
+Friday: 11/2/2018
+High Temp: 55°
+Low Temp: 43°
+Precipitation: 0.0"
+________________
+Saturday: 11/3/2018
+High Temp: 64°
+Low Temp: 45°
+Precipitation: 0.27"
+________________
+Sunday: 11/4/2018
+High Temp: 52°
+Low Temp: 45°
+Precipitation: 0.0"
+________________
+Monday: 11/5/2018
+High Temp: 53°
+Low Temp: 44°
+Precipitation: 0.67"
+________________
+Tuesday: 11/6/2018
+High Temp: 53°
+Low Temp: 36°
+Precipitation: 0.0"
+________________
+Wednesday: 11/7/2018
+High Temp: 51°
+Low Temp: 33°
+Precipitation: 0.04"
+________________
+Thursday: 11/8/2018
+High Temp: 47°
+Low Temp: 33°
+Precipitation: 0.12"
+________________
+Friday: 11/9/2018
+High Temp: 47°
+Low Temp: 34°
+Precipitation: 0.0"
+________________
+Saturday: 11/10/2018
+High Temp: 49°
+Low Temp: 38°
+Precipitation: 0.0"
+________________
+Sunday: 11/11/2018
+High Temp: 53°
+Low Temp: 39°
+Precipitation: 0.0"
+________________
