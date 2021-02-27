@@ -38,8 +38,8 @@ class Feedback:
 
         ttk.Label(self.frame_content, text = ('Los Angeles Rams Schedule'),
                     style = 'Header.TLabel').pack()
-        content = ttk.Label(self.frame_content)
-        text = 'nothin'
+        #content = ttk.Label(self.frame_content)
+        #text = 'nothin'
         for i in sportsData['fullgameschedule']['gameentry']:
             if int(i['week']) < 10:
                 if int(i['homeTeam']['ID']) == 77:
